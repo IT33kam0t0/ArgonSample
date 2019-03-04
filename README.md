@@ -1,1 +1,1 @@
-# ArgonSample
+# AR Sample
